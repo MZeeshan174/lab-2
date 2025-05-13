@@ -1,6 +1,14 @@
 Console.WriteLine("Name : MZeeshan");
 Console.WriteLine("Roll No. : 24-ST-036");
+Console.WriteLine("2nd-Semester Subjects:");
+Console.WriteLine("1. OOP ");
+Console.WriteLine("2. SCM ");
+Console.WriteLine("3. Stats ");
+Console.WriteLine("4. English ");
+Console.WriteLine("5. Discreate Structure ");
+Console.WriteLine("6. SDLC ");
 Console.WriteLine("FSC Subjects:");
 Console.WriteLine("English , urdu , Maths , Computer , Physics , Islamiyat , Tarjuma-al-Quran");
 Console.WriteLine("1st-Semester Subjects:")
 Console.WriteLine(" Maths , Computer-Programing , Physics , Islamiyat , ITs , EHS");
+ 
