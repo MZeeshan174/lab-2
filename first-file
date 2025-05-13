@@ -1,2 +1,9 @@
 Console.WriteLine("Name : MZeeshan");
 Console.WriteLine("Roll No. : 24-ST-036");
+Console.WriteLine("2nd-Semester Subjects:");
+Console.WriteLine("1. OOP ");
+Console.WriteLine("2. SCM ");
+Console.WriteLine("3. Stats ");
+Console.WriteLine("4. English ");
+Console.WriteLine("5. Discreate Structure ");
+Console.WriteLine("6. SDLC ");
