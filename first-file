@@ -2,3 +2,5 @@ Console.WriteLine("Name : MZeeshan");
 Console.WriteLine("Roll No. : 24-ST-036");
 Console.WriteLine("FSC Subjects:");
 Console.WriteLine("English , urdu , Maths , Computer , Physics , Islamiyat , Tarjuma-al-Quran");
+Console.WriteLine("1st-Semester Subjects:")
+Console.WriteLine(" Maths , Computer-Programing , Physics , Islamiyat , ITs , EHS");
